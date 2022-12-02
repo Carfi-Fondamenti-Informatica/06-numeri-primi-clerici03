@@ -3,4 +3,4 @@
 
 #endif //ESERCIZIO_6_LIB_H
 
-bool funzione(int, int);
+bool funzione(int a, int b);
